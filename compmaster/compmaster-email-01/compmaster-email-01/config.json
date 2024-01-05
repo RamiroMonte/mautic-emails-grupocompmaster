@@ -1,0 +1,7 @@
+{
+  "name": "Compmaster - Email 01",
+  "author": "RM Developer Team",
+  "authorUrl": "https://ramiromonte.com",
+  "builder": ["grapesjsbuilder"],
+  "features": ["email"]
+}
